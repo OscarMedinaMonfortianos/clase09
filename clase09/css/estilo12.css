@@ -1,0 +1,19 @@
+.part1{ border-top: 1px solid #C00; }
+
+.part2{
+    border-bottom: medium double #369;
+}
+.part3{
+    margin: auto;
+background: gold;
+width: 66%;
+  }
+.part4{
+  padding: 10px 50px 20px;
+}
+.part5 {
+    vertical-align:middle;
+   }
+.part6 {
+   text-indent: 6em; 
+}
